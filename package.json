@@ -1,0 +1,22 @@
+{
+  "name": "swag-labs-cypress",
+  "version": "1.0.0",
+  "description": "Implement autotests with Cypress Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkadins/swag-labs-cypress.git"
+  },
+  "author": "Soma Sarkadi Nagy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarkadins/swag-labs-cypress/issues"
+  },
+  "homepage": "https://github.com/sarkadins/swag-labs-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.14.0"
+  }
+}
